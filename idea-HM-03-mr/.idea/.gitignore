@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\work\ideaspace\hadoop-3.1.4\example-mr\.idea/dataSources/
+/dataSources.local.xml

@@ -1,0 +1,4 @@
+# Project exclude paths
+/idea-HM-01-hdfs/target/
+/idea-HM-02-hdfs-sentiment-upload/target/
+/idea-HM-03-mr/target/
